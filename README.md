@@ -6,7 +6,7 @@ Prebuilt [statix](https://github.com/nerdypepper/statix) binaries for nix anti-p
 
 ```toml
 [tools]
-"github:OlechowskiMichal/nix-statix-bin" = "latest"
+"github:prettygood-software/nix-statix-bin" = "latest"
 ```
 
 ## Platforms
